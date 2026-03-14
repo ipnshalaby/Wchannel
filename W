@@ -193,5 +193,5 @@
     {"id": "ad_sport1_hd", "name": "AD SPORTS 1 HD", "group": "Ad Sport ", "logo": "http://up.rq2.site/up/WOfcZvD.png", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/326053", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
     {"id": "ostora_arabic_1", "name": "Ostora Arabic 1", "group": "Ostora TV", "logo": "https://www.ostora.tv/assets/images/blog.jpg", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/130481", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
     {"id": "ostora_arabic_10", "name": "Ostora Arabic 10", "group": "Ostora TV", "logo": "https://www.ostora.tv/assets/images/blog.jpg", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/130490", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true}
-  ]
+]
 }
