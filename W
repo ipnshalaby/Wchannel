@@ -125,7 +125,6 @@
     {"id": "alumy_bein_7", "name": "Bein 7 Alumy", "group": "Alumy TV", "logo": "https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp", "url": "https://sf.alumy.online/bbbb7/stream.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "referer": "https://spoort.en-yalla.live/"},
 
 
-    [
     {"id": "thamanya_1_hd", "name": "THAMANYA 1 HD", "group": "THAMANYA", "logo": "", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/429516", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
     {"id": "thamanya_1_4k", "name": "THAMANYA 1 4k", "group": "THAMANYA", "logo": "", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/421785", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
     {"id": "thamanya_2_hd", "name": "THAMANYA 2 HD", "group": "THAMANYA", "logo": "", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/429517", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
