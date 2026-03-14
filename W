@@ -1,5 +1,4 @@
-{
-  "channels": [
+[
     {"id": "ostora_arabic_1", "name": "Ostora Arabic 1", "group": "Ostora TV", "logo": "https://www.ostora.tv/assets/images/blog.jpg", "url": "http://my.vibertv.online:8880/33/33/130481", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
     {"id": "ostora_arabic_2", "name": "Ostora Arabic 2", "group": "Ostora TV", "logo": "https://www.ostora.tv/assets/images/blog.jpg", "url": "http://my.vibertv.online:8880/33/33/130482", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
     {"id": "ostora_arabic_3", "name": "Ostora Arabic 3", "group": "Ostora TV", "logo": "https://www.ostora.tv/assets/images/blog.jpg", "url": "http://my.vibertv.online:8880/33/33/130483", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
@@ -187,5 +186,4 @@
     {"id": "shahid_spot2_4k", "name": "Shahid Spot2 4k", "group": "Shahid Spot", "logo": "", "url": "http://my.vibertv.online:8880/33/33/430912", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
     {"id": "bein_afc_4k", "name": "beIN Sport AFC 4K", "group": "beIN Sport AFC", "logo": "", "url": "http://my.vibertv.online:8880/33/33/374857", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
     {"id": "ad_sport1_hd", "name": "AD SPORTS 1 HD", "group": "Ad Sport ", "logo": "http://up.rq2.site/up/WOfcZvD.png", "url": "http://my.vibertv.online:8880/33/33/326053", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-  ]
-}
+]
