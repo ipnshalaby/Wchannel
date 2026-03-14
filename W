@@ -136,5 +136,111 @@
 {"id": "alwan_viber_4_sd", "name": "Alwan Sport 4 (SD)", "group": "Alwan Viber SD", "logo": "http://up.rq2.site/up/BQA9FG0Or.png", "url": "http://my.vibertv.online:8880/live/33/33/418122.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
 {"id": "alwan_viber_5_sd", "name": "Alwan Sport 5 (SD)", "group": "Alwan Viber SD", "logo": "http://up.rq2.site/up/2aCCh8frt.png", "url": "http://my.vibertv.online:8880/live/33/33/418125.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
 {"id": "alwan_viber_6_sd", "name": "Alwan Sport 6 (SD)", "group": "Alwan Viber SD", "logo": "http://up.rq2.site/up/Py0jsJ6.png", "url": "http://my.vibertv.online:8880/live/33/33/418128.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"}
-  ]
+
+
+[
+  {
+    "id": "bein_sport_global_4k",
+    "name": "beIN Sport Global 4K",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/yDAcWWQ8T97.png",
+    "url": "http://my.vibertv.online:8880/33/33/22186",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_news_4k",
+    "name": "beIN Sport News 4K",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/8Kvd9al.png",
+    "url": "http://my.vibertv.online:8880/33/33/318230",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_1_4k",
+    "name": "beIN Sport 1 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/wSBioEH.png",
+    "url": "http://my.vibertv.online:8880/33/33/318197",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_2_4k",
+    "name": "beIN Sport 2 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/vHXUTZZBxB.png",
+    "url": "http://my.vibertv.online:8880/33/33/318198",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_3_4k",
+    "name": "beIN Sport 3 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/71gCr6PTuy.png",
+    "url": "http://my.vibertv.online:8880/33/33/318199",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_4_4k",
+    "name": "beIN Sport 4 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/L38ZYC8mn.png",
+    "url": "http://my.vibertv.online:8880/33/33/440580",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_5_4k",
+    "name": "beIN Sport 5 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/tTpFA2Vx.png",
+    "url": "http://my.vibertv.online:8880/33/33/318201",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_6_4k",
+    "name": "beIN Sport 6 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/77AULDz6EA.png",
+    "url": "http://my.vibertv.online:8880/33/33/318202",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_7_4k",
+    "name": "beIN Sport 7 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/OJ93yKXb8YU.png",
+    "url": "http://my.vibertv.online:8880/33/33/318203",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_8_4k",
+    "name": "beIN Sport 8 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/chTf2tF.png",
+    "url": "http://my.vibertv.online:8880/33/33/318204",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_9_4k",
+    "name": "beIN Sport 9 4k",
+    "group": "beIN Sport 4K",
+    "logo": "http://up.rq2.site/up/OuJ1fummXOF.png",
+    "url": "http://my.vibertv.online:8880/33/33/318205",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "bein_sport_xtra_1_4k",
+    "name": "beIN Sport XTRA 1 4K",
+    "group": "beIN Sport Xtra",
+    "logo": "http://up.rq2.site/up/UP74mtn4y28.png",
+    "url": "http://my.vibertv.online:8880/33/33/325790",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "ostora_arabic_1",
+    "name": "Ostora Arabic 1",
+    "group": "Ostora TV",
+    "logo": "https://www.ostora.tv/assets/images/blog.jpg",
+    "url": "http://my.vibertv.online:8880/33/33/130481",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+]
 }
