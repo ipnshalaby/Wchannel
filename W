@@ -202,7 +202,7 @@
 
 
    
-    {"id": "Alwan1HD", "name": "Alwan1HD", "group": "Alwan Spot", "logo": "http://up.rq2.site/up/XQChzcIFPK.png", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
+    {"id": "Alwan11HD", "name": "Alwan11HD", "group": "Alwan Spot", "logo": "http://up.rq2.site/up/XQChzcIFPK.png", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
     
     
     {"id": "Alwan1HD", "name": "Alwan1HD", "group": "Alwan Spot", "logo": "http://up.rq2.site/up/XQChzcIFPK.png", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237015.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
