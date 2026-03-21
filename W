@@ -14,14 +14,6 @@
     {"id": "ontime2_720_a", "name": "OnTime Sport 2 (720 A)", "group": "on Sport", "logo": "http://up.rq2.site/up/P6jvVEkM.png", "url": "https://stm.linkip.org/live/1124_.m3u8?token=", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
     {"id": "ontime2_720_b", "name": "OnTime Sport 2 (720 B)", "group": "on Sport", "logo": "http://up.rq2.site/up/P6jvVEkM.png", "url": "https://stm.linkip.org/live/1149_.m3u8?token=", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
 
-    {"id": "zamalek_tv", "name": "Zamalek TV", "group": "on Sport", "logo": "http://up.rq2.site/up/2cMR2dPGN4W.png", "url": "https://stm.linkip.org/live/1145_.m3u8?token=", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
-    {"id": "zamalek_tv", "name": "Zamalek TV", "group": "on Sport", "logo": "http://up.rq2.site/up/2cMR2dPGN4W.png", "url": "http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/21836.ts", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
-
-    {"id": "mando_on1", "name": "Mando OnTime 1", "group": "on Sport", "logo": "http://up.rq2.site/up/Oe5RqsnpPNG.png", "url": "https://raw.githubusercontent.com/ON2026/ON/main/onsp1.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
-    {"id": "mando_on2", "name": "Mando OnTime 2", "group": "on Sport", "logo": "http://up.rq2.site/up/P6jvVEkM.png", "url": "https://raw.githubusercontent.com/ON2026/ON/main/onsp2.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
-    {"id": "adrar_on1", "name": "Adrar OnTime 1", "group": "on Sport", "logo": "http://up.rq2.site/up/Oe5RqsnpPNG.png", "url": "https://raw.githubusercontent.com/mocrotv/ST/refs/heads/p1/on1.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
-    {"id": "adrar_on2", "name": "Adrar OnTime 2", "group": "on Sport", "logo": "http://up.rq2.site/up/P6jvVEkM.png", "url": "https://raw.githubusercontent.com/mocrotv/ST/refs/heads/p1/on2.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
-
     {"id": "ontime_hd1", "name": "OnTime HD1 iptv", "group": "on Sport", "logo": "http://up.rq2.site/up/Oe5RqsnpPNG.png", "url": "http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/441.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
     {"id": "ontime_hd2", "name": "OnTime HD2 iptv", "group": "on Sport", "logo": "http://up.rq2.site/up/P6jvVEkM.png", "url": "http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/438.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
 
@@ -30,6 +22,10 @@
 
     {"id": "ontime_hd1_app", "name": "OnTime HD 1 (APK) D", "group": "on Sport", "logo": "http://up.rq2.site/up/Oe5RqsnpPNG.png", "url": "http://apk.arabic-ch.space/live/006900/index.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
     {"id": "ontime_hd2_app", "name": "OnTime HD 2 (APK) D", "group": "on Sport", "logo": "http://up.rq2.site/up/P6jvVEkM.png", "url": "http://apk.arabic-ch.space/live/007000/index.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
+
+
+    {"id": "zamalek_tv", "name": "Zamalek TV", "group": "on Sport", "logo": "http://up.rq2.site/up/2cMR2dPGN4W.png", "url": "https://stm.linkip.org/live/1145_.m3u8?token=", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
+    {"id": "zamalek_tv", "name": "Zamalek TV", "group": "on Sport", "logo": "http://up.rq2.site/up/2cMR2dPGN4W.png", "url": "http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/21836.ts", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
 
 
     {"id": "kira_1", "name": "Ostora Kira 1", "group": "Ostora Kira", "logo": "https://www.ostora.tv/assets/images/blog.jpg", "url": "https://dev-a-live.pantheonsite.io/A/atv.php?id=116900&cat=4524", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
