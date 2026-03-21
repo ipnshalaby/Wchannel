@@ -191,7 +191,7 @@
     {"id": "shahid_spot1_4k", "name": "Shahid Spot1 4k", "group": "Shahid Spot", "logo": "", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/430911", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
 
 
-    {"id": "Alwan1HD", "name": "Alwan1HD", "group": "Alwan Spot", "logo": "http://up.rq2.site/up/XQChzcIFPK.png", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237016.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36", "direct": true},
+    {"id": "Alwan1HD", "name": "Alwan1HD", "group": "Alwan Spot", "logo": "http://up.rq2.site/up/XQChzcIFPK.png", "url": "http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237016.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
 
 
     {"id": "bein_afc_4k", "name": "beIN Sport AFC 4K", "group": "beIN Sport AFC", "logo": "", "url": "https://ipnshalaby1-shalaby-proxy.hf.space/?url=http://my.vibertv.online:8880/33/33/374857", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"},
